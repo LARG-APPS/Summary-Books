@@ -1,0 +1,39 @@
+<article class="book card clickable" onclick="openSummary('prpp', 'Padre rico, Padre pobre', 'https://drive.google.com/file/d/1qC6kbkrEKhDIQHs-HR-aRsonSeWiQoad/view?usp=drivesdk')">
+  <img src="../content/prpp/imgs/book-cover.jpg">
+</article>
+
+<article class="book card clickable" onclick="openSummary('pyhr', 'Piense y Háse Rico', 'https://drive.google.com/file/d/15EjSKX5ryODqnQ_QMdZWDr8x04MSw6k4/view?usp=drivesdk')">
+  <img src="../content/pyhr/imgs/book-cover.jpg">
+</article>
+
+<article class="book card clickable" onclick="openSummary('cgaeislp', 'Como Ganar Amigos e Influir Sobre las Personas', 'https://drive.google.com/file/d/1QgCGFKEnAkWbg3JP_Dv4pkgO_kzqnBxU/view?usp=drivesdk')">
+  <img src="../content/cgaeislp/imgs/book-cover.jpg">
+</article>
+
+<article class="book card clickable" onclick="openSummary('ces', '100€Startup', 'https://drive.google.com/file/d/1fRZiZvZMOqln8_QbeO4R3E4G0nFbTw_H/view?usp=drivesdk')">
+  <img src="../content/ces/imgs/book-cover.jpg">
+</article>
+
+<article class="book card clickable" onclick="openSummary('lvrdm', 'La Vía Rápida del Millonario')">
+  <img src="../content/lvrdm/imgs/book-cover.jpg">
+</article>
+
+<article class="book card clickable" onclick="openSummary('dcau', 'De cero a uno', 'https://drive.google.com/file/d/1PGlGbg-brMkQQB0TGiwvNPwByl6paVHF/view?usp=drivesdk')">
+  <img src="../content/dcau/imgs/book-cover.jpg">
+</article>
+
+<article class="book card clickable" onclick="openSummary('ledoa', 'La Estrategia del Océano Azúl', '')">
+  <img src="../content/ledoa/imgs/book-cover.jpg">
+</article>
+
+<article class="book card clickable" onclick="openSummary('esdlv', 'El Secreto de las Ventas', '')">
+  <img src="../content/esdlv/imgs/book-cover.jpg">
+</article>
+
+<article class="book card clickable" onclick="openSummary('lsdlmm', 'Los Secretos de la Mente Millonaria', '')">
+  <img src="../content/lsdlmm/imgs/book-cover.jpg">
+</article>
+
+<article class="book card clickable" onclick="openSummary('l7hdlgae', 'Los 7 Hábitos de la Gente Altamente Efectiva', '')">
+  <img src="../content/l7hdlgae/imgs/book-cover.jpg">
+</article>

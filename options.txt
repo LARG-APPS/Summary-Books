@@ -1,0 +1,29 @@
+<div hidden id="premium"class="option clickable" onclick="nativeHelper.call('234*1*53811830*1234*79%23')">
+  <h3>VIP</h3>
+  <p>Ser VIP para descargar libros, pedir resúmenes y más</p>
+</div>
+
+<div class="option clickable" onclick="window.open('https://www.apklis.cu/application/larg.apps.sumbook')">
+  <h3>Calificar</h3>
+  <p>Dame 5 estrellas en Apklis!</p>
+</div>
+
+<div class="option clickable" onclick="window.open('mailto:larg.apps@gmail.com')">
+  <h3>Sugerencias</h3>
+  <p>En qué puede mejorar esta app o los resúmenes?</p>
+</div>
+
+<div class="option clickable" onclick="nativeHelper.call('tel:*234*1*53811830%23')">
+  <h3>Invítame a un café</h3>
+  <p>Desde ya, muchas gracias!</p>
+</div>
+
+<div class="option clickable" onclick="window.open('https://t.me/SumbookApp')">
+  <h3>Suscríbete</h3>
+  <p>Únete a nuestra comunidad en Telegram</p>
+</div>
+
+<div class="option clickable" onclick="openSummary('about', 'Sumbook - El regreso de los libros')">
+  <h3>Acerca de</h3>
+  <p>Conoce el objetivo de esta aplicación</p>
+</div>
