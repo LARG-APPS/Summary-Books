@@ -1,5 +1,5 @@
 <article class="book card clickable" onclick="openSummary('prpp', 'Padre rico, Padre pobre', 'https://drive.google.com/file/d/1qC6kbkrEKhDIQHs-HR-aRsonSeWiQoad/view?usp=drivesdk')">
-  <img src="https://raw.githubusercontent.com/LARG-APPS/Summary-Books/main/content/prpp/imgs/book-cover.jpg">
+  <img src="https://raw.githubusercontent.com/LARG-APPS/Summary-Books/8c4e9b6cdcc4d9210792034a4a9f3abbe8371009/prpp/imgs/book-cover.jpg">
 </article>
 
 <article class="book card clickable" onclick="openSummary('pyhr', 'Piense y Háse Rico', 'https://drive.google.com/file/d/15EjSKX5ryODqnQ_QMdZWDr8x04MSw6k4/view?usp=drivesdk')">
