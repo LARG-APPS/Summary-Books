@@ -3,11 +3,11 @@
 </article>
 
 <article class="book card clickable" onclick="openSummary('pyhr', 'Piense y Háse Rico', 'https://drive.google.com/file/d/15EjSKX5ryODqnQ_QMdZWDr8x04MSw6k4/view?usp=drivesdk')">
-  <img src="../content/pyhr/imgs/book-cover.jpg">
+  <img src="https://raw.githubusercontent.com/LARG-APPS/Summary-Books/8c4e9b6cdcc4d9210792034a4a9f3abbe8371009/pyhr/imgs/book-cover.jpg>
 </article>
 
 <article class="book card clickable" onclick="openSummary('cgaeislp', 'Como Ganar Amigos e Influir Sobre las Personas', 'https://drive.google.com/file/d/1QgCGFKEnAkWbg3JP_Dv4pkgO_kzqnBxU/view?usp=drivesdk')">
-  <img src="../content/cgaeislp/imgs/book-cover.jpg">
+  <img src="https://raw.githubusercontent.com/LARG-APPS/Summary-Books/8c4e9b6cdcc4d9210792034a4a9f3abbe8371009/cgaeislp/imgs/book-cover.jpg">
 </article>
 
 <article class="book card clickable" onclick="openSummary('ces', '100€Startup', 'https://drive.google.com/file/d/1fRZiZvZMOqln8_QbeO4R3E4G0nFbTw_H/view?usp=drivesdk')">
