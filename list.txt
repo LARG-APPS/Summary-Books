@@ -11,29 +11,29 @@
 </article>
 
 <article class="book card clickable" onclick="openSummary('ces', '100€Startup', 'https://drive.google.com/file/d/1fRZiZvZMOqln8_QbeO4R3E4G0nFbTw_H/view?usp=drivesdk')">
-  <img src="../content/ces/imgs/book-cover.jpg">
+  <img src="https://raw.githubusercontent.com/LARG-APPS/Summary-Books/8c4e9b6cdcc4d9210792034a4a9f3abbe8371009/ces/imgs/book-cover.jpg">
 </article>
 
 <article class="book card clickable" onclick="openSummary('lvrdm', 'La Vía Rápida del Millonario')">
-  <img src="../content/lvrdm/imgs/book-cover.jpg">
+  <img src="https://raw.githubusercontent.com/LARG-APPS/Summary-Books/8c4e9b6cdcc4d9210792034a4a9f3abbe8371009/lvrdm/imgs/book-cover.jpg">
 </article>
 
 <article class="book card clickable" onclick="openSummary('dcau', 'De cero a uno', 'https://drive.google.com/file/d/1PGlGbg-brMkQQB0TGiwvNPwByl6paVHF/view?usp=drivesdk')">
-  <img src="../content/dcau/imgs/book-cover.jpg">
+  <img src="https://raw.githubusercontent.com/LARG-APPS/Summary-Books/8c4e9b6cdcc4d9210792034a4a9f3abbe8371009/dcau/imgs/book-cover.jpg">
 </article>
 
 <article class="book card clickable" onclick="openSummary('ledoa', 'La Estrategia del Océano Azúl', '')">
-  <img src="../content/ledoa/imgs/book-cover.jpg">
+  <img src="https://raw.githubusercontent.com/LARG-APPS/Summary-Books/8c4e9b6cdcc4d9210792034a4a9f3abbe8371009/ledoa/imgs/book-cover.jpg">
 </article>
 
 <article class="book card clickable" onclick="openSummary('esdlv', 'El Secreto de las Ventas', '')">
-  <img src="../content/esdlv/imgs/book-cover.jpg">
+  <img src="https://raw.githubusercontent.com/LARG-APPS/Summary-Books/8c4e9b6cdcc4d9210792034a4a9f3abbe8371009/esdlv/imgs/book-cover.jpg">
 </article>
 
 <article class="book card clickable" onclick="openSummary('lsdlmm', 'Los Secretos de la Mente Millonaria', '')">
-  <img src="../content/lsdlmm/imgs/book-cover.jpg">
+  <img src="https://raw.githubusercontent.com/LARG-APPS/Summary-Books/8c4e9b6cdcc4d9210792034a4a9f3abbe8371009/lsdlmm/imgs/book-cover.jpg">
 </article>
 
 <article class="book card clickable" onclick="openSummary('l7hdlgae', 'Los 7 Hábitos de la Gente Altamente Efectiva', '')">
-  <img src="../content/l7hdlgae/imgs/book-cover.jpg">
+  <img src="https://raw.githubusercontent.com/LARG-APPS/Summary-Books/8c4e9b6cdcc4d9210792034a4a9f3abbe8371009/l7hdlgae/imgs/book-cover.jpg">
 </article>
