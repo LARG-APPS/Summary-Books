@@ -1,4 +1,4 @@
-![](../content/ledoa/imgs/les-empreses-han-de-fer-el-salt-de-l-ocea-vermell-a-l-ocea-blau.jpeg)
+![](https://raw.githubusercontent.com/LARG-APPS/Summary-Books/main/ledoa/imgs/les-empreses-han-de-fer-el-salt-de-l-ocea-vermell-a-l-ocea-blau.jpeg)
 
 # Descubriendo Océanos Azules de Oportunidad: Resumen de "La Estrategia del Océano Azul"
 
