@@ -1,4 +1,4 @@
-![](../content/cgaeislp/imgs/1693200425439.jpg)
+![](https://raw.githubusercontent.com/LARG-APPS/Summary-Books/main/cgaeislp/imgs/1693200425439.jpg)
 
 # Cómo Ganar Amigos e Influir Sobre las Personas - Resumen Definitivo
 
