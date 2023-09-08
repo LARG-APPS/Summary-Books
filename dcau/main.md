@@ -1,4 +1,4 @@
-![](../content/dcau/imgs/zero-to-one-book-001-1-2048x1152.jpeg)
+![](https://raw.githubusercontent.com/LARG-APPS/Summary-Books/main/dcau/imgs/zero-to-one-book-001-1-2048x1152.jpeg)
 
 # De Cero a Uno - Creando Innovación Radical
 
