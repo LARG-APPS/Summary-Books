@@ -1,4 +1,4 @@
-![Sumbook](../content/about/imgs/banner2.png)
+![Sumbook](https://raw.githubusercontent.com/LARG-APPS/Summary-Books/main/about/imgs/banner2.png)
 # Bienvenido a Sumbook
 
 <audio src="../content/about/about.mp3" controls></audio>
@@ -10,7 +10,7 @@ mejores resultados y trabajar menos?
 
 ### Las respuestas están en...
 
-![Libro interesante](../content/about/imgs/magic-book2.png)
+![Libro interesante]()
 
 Hay muy buenos libros en el mundo, que si los lees y 
 pones en práctica lo que dicen te puede ir mucho mejor, 
