@@ -1,4 +1,4 @@
-![](../content/lvrdm/imgs/1693199487877.jpg)
+![](https://raw.githubusercontent.com/LARG-APPS/Summary-Books/main/lvrdm/imgs/1693199487877.jpg)
 
 # La Vía Rápida del Millonario
 
