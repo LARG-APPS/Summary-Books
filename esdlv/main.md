@@ -1,4 +1,4 @@
-![](../content/esdlv/imgs/photo_2023-08-28_15-01-27.jpg)
+![](https://raw.githubusercontent.com/LARG-APPS/Summary-Books/main/esdlv/imgs/photo_2023-08-28_15-01-27.jpg)
 
 # El Secreto de las Ventas: Desbloqueando tu Potencial para Vender Más y Mejor
 
