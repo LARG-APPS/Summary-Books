@@ -3,7 +3,7 @@
 </article>
 
 <article width="100%" height="100%" class="book card clickable" onclick="openSummary('pyhr', 'Piense y Háse Rico', 'https://drive.google.com/file/d/15EjSKX5ryODqnQ_QMdZWDr8x04MSw6k4/view?usp=drivesdk')">
-  <img src="https://github.com/LARG-APPS/Summary-Books/blob/main/prpp/imgs/book-cover.jpg">
+  <img src="https://raw.githubusercontent.com/LARG-APPS/Summary-Books/main/pyhr/imgs/book-cover.jpg">
 </article>
 
 <article width="100%" height="100%" class="book card clickable" onclick="openSummary('cgaeislp', 'Como Ganar Amigos e Influir Sobre las Personas', 'https://drive.google.com/file/d/1QgCGFKEnAkWbg3JP_Dv4pkgO_kzqnBxU/view?usp=drivesdk')">
