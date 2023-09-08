@@ -30,7 +30,7 @@ para mejor; que pena, y no podemos hacer nada... o sí?
 
 ### Sumbook es la solución
 
-![Lee resúmenes](../content/about/imgs/learn-more-fastly2.png)
+![Lee resúmenes](https://raw.githubusercontent.com/LARG-APPS/Summary-Books/main/about/imgs/learn-more-fastly2.png)
 
 Esta app te ofrece un montón 
 de resúmenes de los mejores libros sobre educación 
