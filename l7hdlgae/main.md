@@ -1,4 +1,4 @@
-![](../content/l7hdlgae/imgs/Sk_QmW94l_1256x620.webp)
+![](https://raw.githubusercontent.com/LARG-APPS/Summary-Books/main/l7hdlgae/imgs/Sk_QmW94l_1256x620.webp)
 
 # Los 7 Hábitos de la Gente Altamente Efectiva
 
