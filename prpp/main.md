@@ -1,4 +1,4 @@
-![](../content/prpp/imgs/rich-dad-poor-dad-book-on-hand.jpg)
+![](https://raw.githubusercontent.com/LARG-APPS/Summary-Books/main/prpp/imgs/rich-dad-poor-dad-book-on-hand.jpg)
 
 # "Padre Rico, Padre Pobre" - Educación Financiera para Alcanzar la Riqueza
 
