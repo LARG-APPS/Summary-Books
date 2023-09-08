@@ -20,7 +20,7 @@ o de mal gusto. Pero tambien hay otro problema...
 
 ### ¿Por qué nadie lee libros?
 
-![Los libros son extensos](../content/about/imgs/big-books2.png)
+![Los libros son extensos](https://raw.githubusercontent.com/LARG-APPS/Summary-Books/main/about/imgs/big-books2.png)
 
 Incluso los mejores libros del mundo tienen un pequeño 
 inconveniente; muchos son extensos o aburridos, y vivimos 
