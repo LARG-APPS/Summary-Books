@@ -1,4 +1,4 @@
-![](../content/pyhr/imgs/cabecera-Piense-y-hagase-rico-cover-tw.jpg)
+![](https://raw.githubusercontent.com/LARG-APPS/Summary-Books/main/pyhr/imgs/cabecera-Piense-y-hagase-rico-cover-tw.jpg)
 
 # Piense y Hágase Rico - Una Guía hacia la Riqueza
 
