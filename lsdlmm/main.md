@@ -1,4 +1,4 @@
-![](../content/lsdlmm/imgs/los-secretos-la-mente-millonaria-t-harv-eker-resumen-animado.jpg)
+![](https://raw.githubusercontent.com/LARG-APPS/Summary-Books/main/lsdlmm/imgs/los-secretos-la-mente-millonaria-t-harv-eker-resumen-animado.jpg)
 
 # Descifrando "Los Secretos de la Mente Millonaria": 17 Claves para la Riqueza y el Éxito
 
