@@ -1,4 +1,4 @@
-![](../content/ces/imgs/Book-100-startup1.jpg)
+![](https://raw.githubusercontent.com/LARG-APPS/Summary-Books/main/ces/imgs/Book-100-startup1.jpg)
 
 # "100€Startup": El camino hacia tu negocio con 100€
 
