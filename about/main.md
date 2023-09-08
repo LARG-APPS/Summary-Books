@@ -10,7 +10,7 @@ mejores resultados y trabajar menos?
 
 ### Las respuestas están en...
 
-![Libro interesante]()
+![Libro interesante](https://raw.githubusercontent.com/LARG-APPS/Summary-Books/main/about/imgs/magic-book2.png)
 
 Hay muy buenos libros en el mundo, que si los lees y 
 pones en práctica lo que dicen te puede ir mucho mejor, 
